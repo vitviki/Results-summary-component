@@ -24,7 +24,7 @@ Results summary component solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vitviki/Results-summary-component)
+- Solution URL: [Github Link](https://github.com/vitviki/Results-summary-component)
 
 ### Built with
 
